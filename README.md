@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%23067AD4&size=25&center=true&lines=Front+-+End+Developer+WooSeok)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=WooSeok&fontSize=70&animation=twinkling)
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hdsshj&show_icons=true&theme=radical)
 
 ---
 <div align=center>
@@ -31,3 +30,6 @@
 <img src= “https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white” width=“70” height=“30"/>
 </p>
 </div>
+---
+![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hdsshj&show_icons=true&theme=radical)
+
