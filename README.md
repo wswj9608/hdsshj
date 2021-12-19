@@ -1,7 +1,8 @@
+<div align=center>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%23067AD4&size=25&center=true&lines=Front+-+End+Developer+WooSeok)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=WooSeok&fontSize=70&animation=twinkling)
 ---
-<div align=center>
+
 <h3>🛠 Tech Stack 🛠</h>
  <p></p>
 <p>
