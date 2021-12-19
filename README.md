@@ -30,7 +30,6 @@
 <img src= “https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white” width=“70” height=“30"/>
 </p>
 </div>
----
 
 ![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hdsshj&show_icons=true&theme=radical)
 
