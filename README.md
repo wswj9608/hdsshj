@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=%234A7CD4&size=25&center=true&lines=FrontEnd+Developer)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,+I'm+WooSeok+Han&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,+I'm+ws.Han&fontSize=70&animation=fadeIn)
  
 
 ---
