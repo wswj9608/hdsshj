@@ -2,7 +2,13 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=%234A7CD4&size=25&center=true&lines=FrontEnd+Developer)](https://git.io/typing-svg)
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=WooSeok&fontSize=70&animation=twinkling)
+
+ 
+<p align="center">
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello, I'm Ella Kim🌿&fontSize=70&animation=fadeIn" />
+ 
+</p>
 
 ---
 <h3>🛠 Tech Stack 🛠</h>
