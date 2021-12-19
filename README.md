@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=JunSeok&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=WooSeok&fontSize=70&animation=twinkling)
 ---
 <div align=center>
 <h3>:망치와_렌치: Tech Stack :망치와_렌치:</h>
